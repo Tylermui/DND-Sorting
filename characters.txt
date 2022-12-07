@@ -1,0 +1,95 @@
+Barbarian - Alf A. Romeo
+Strength:25
+Dexterity:15
+Constitution:30
+Intelligence:1
+Wisdom:2
+Charisma:5
+
+Bard - Chip Munk
+Dexterity:22
+Strength:16
+Intelligence:17
+Constitution:15
+Charisma:24
+Wisdom:11
+
+Cleric - Barry Cade
+Charisma:27
+Dexterity:4
+Constitution:13
+Strength:9
+Wisdom:26
+Intelligence:22
+
+Druid - Brock Lee
+Constitution:19
+Strength:17
+Charisma:25
+Intelligence:14
+Wisdom:21
+Dexterity:16
+
+Fighter - Anna Sasin
+Intelligence:5
+Dexterity:17
+Strength:23
+Wisdom:6
+Constitution:16
+Charisma:11
+
+Wizard - Cam Payne
+Charisma:2
+Dexterity:8
+Wisdom:20
+Constitution:3
+Intelligence:29
+Strength:19
+
+Monk - Cara Van
+Strength:11
+Wisdom:19
+Constitution:20
+Dexterity:9
+Charisma:30
+Intelligence:7
+
+Paladin - Casey Macy
+Intelligence:19
+Strength:26
+Wisdom:9
+Constitution:21
+Dexterity:14
+Charisma:8
+
+Ranger - Claire Annette Reed
+Charisma:13
+Constitution:19
+Wisdom:14
+Intelligence:15
+Dexterity:23
+Strength:16
+
+Sorcerer - Anne Teak
+Strength:13
+Charisma:21
+Constitution:5
+Dexterity:17
+Intelligence:27
+Wisdom:15
+
+Thief - Anna Prentice
+Intelligence:13
+Constitution:15
+Dexterity:28
+Strength:7
+Charisma:30
+Wisdom:10
+
+Warlock - Billy Rubin
+Dexterity:4
+Constitution:24
+Strength:18
+Intelligence:21
+Wisdom:9
+Charisma:11
